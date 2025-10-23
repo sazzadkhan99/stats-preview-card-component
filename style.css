@@ -96,7 +96,6 @@ margin-block-end: 2.81rem;
 .overlay{
   position:absolute ;
   width:100%;
-  max-width: auto;
   height: 100%;
   top: 0;
   left: 0;
@@ -137,3 +136,4 @@ margin-block-end: 2.81rem;
   flex-direction: column;
 }
 }
+
